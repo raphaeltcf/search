@@ -17,4 +17,4 @@ class QuestionAPIView(generics.ListCreateAPIView):
     serializer_class = QuestionSerializer
 
 
-# Create your views here.
+
